@@ -224,9 +224,13 @@ A classic Snake Game with a modern interface and interactive gameplay.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://www.linkedin.com/in/k-prathap-narayan/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=k-prathapnarayan&label=PROFILE+VIEWS&color=00F7FF&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=k-prathapnarayan&label=PROFILE+VIEWS&color=00F7FF&style=flat-square"/>
 
 <br/><br/>
 
