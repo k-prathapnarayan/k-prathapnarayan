@@ -7,16 +7,16 @@
 
 <h2>👋 Hi, I'm K Prathap Narayan</h2>
 
-<h3>BCA Student • Aspiring Full Stack Developer</h3>
+<h3>BCA Student | Aspiring Full Stack Developer</h3>
 
 <p>
-Passionate about technology, programming, and building creative digital experiences.
-Learning new technologies and turning ideas into reality, one line of code at a time. 🚀
+Passionate about technology, programming and building creative digital experiences.
+Learning new technologies and turning ideas into reality, one line of code at a time.
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=BCA+Student;Aspiring+Full+Stack+Developer;Python+Enthusiast;Exploring+Web+Development;Building+Creative+Projects"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/k-prathapnarayan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -28,15 +28,15 @@ Learning new technologies and turning ideas into reality, one line of code at a 
 
 <!-- ================= ABOUT ME ================= -->
 
-<h2 align="center">🌌 Personal Dossier</h2>
+<h2 align="center">🌌 About Me</h2>
 
-<table align="center">
+<table>
 <tr>
-<td width="55%">
+<td width="60%">
 
 ### ⚡ Quick Bio
 
-I'm a BCA student interested in software development, programming, and modern web technologies.
+I'm a BCA student interested in software development, programming and modern web technologies.
 
 Currently exploring different areas of development while building projects and improving my coding skills.
 
@@ -46,11 +46,11 @@ Currently exploring different areas of development while building projects and i
 - 💻 Aspiring Full Stack Developer
 - 🌱 Learning Python, C and Web Development
 - 🚀 Exploring creative software projects
-- 🎯 Focused on continuous learning and improvement
+- 🎯 Focused on continuous learning
 
 </td>
 
-<td width="45%" align="center">
+<td width="40%" align="center">
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
 
@@ -64,32 +64,31 @@ Currently exploring different areas of development while building projects and i
 
 <h2 align="center">🛠️ Tech Universe</h2>
 
-### 💻 Programming Languages
+<h3 align="center">💻 Programming Languages</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### 🌐 Frontend Development
+<h3 align="center">🌐 Frontend Development</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
-### ⚙️ Backend Development
+<h3 align="center">⚙️ Backend Development</h3>
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<p align="center">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Platforms
+<h3 align="center">🔧 Tools & Platforms</h3>
 
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
@@ -103,13 +102,15 @@ Currently exploring different areas of development while building projects and i
 
 <div align="center">
 
-### 🐍 Snake Game
+<h3>🐍 Snake Game</h3>
 
 <img src="https://img.shields.io/badge/PROJECT-GAME_DEVELOPMENT-00F7FF?style=for-the-badge"/>
 
+<p>
 A classic Snake Game with a modern interface and interactive gameplay.
+</p>
 
-**Technologies Used**
+<h4>Technologies Used</h4>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
@@ -117,7 +118,9 @@ A classic Snake Game with a modern interface and interactive gameplay.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
 
-**Project Focus:** Game logic, frontend design, backend integration and user experience.
+<p>
+<strong>Project Focus:</strong> Game logic, frontend design, backend integration and user experience.
+</p>
 
 <a href="https://github.com/k-prathapnarayan?tab=repositories">
 <img src="https://img.shields.io/badge/Explore_My_Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -149,22 +152,6 @@ A classic Snake Game with a modern interface and interactive gameplay.
 
 ---
 
-<!-- ================= GITHUB ACTIVITY ================= -->
-
-<h2 align="center">🌊 Development Heartbeat</h2>
-
-<div align="center">
-
-<p><i>A snapshot of my coding journey and contributions.</i></p>
-
-<a href="https://github.com/k-prathapnarayan">
-<img src="https://github-stats-extended.vercel.app/api?username=k-prathapnarayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" width="95%" alt="GitHub Activity Statistics"/>
-</a>
-
-</div>
-
----
-
 <!-- ================= GITHUB ANALYTICS ================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -177,7 +164,7 @@ A classic Snake Game with a modern interface and interactive gameplay.
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com/?user=k-prathapnarayan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF" alt="GitHub Contribution Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=k-prathapnarayan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF" alt="GitHub Streak"/>
 
 </div>
 
@@ -185,23 +172,31 @@ A classic Snake Game with a modern interface and interactive gameplay.
 
 <!-- ================= CONTRIBUTION SNAKE ================= -->
 
-<h2 align="center">🐍 Contribution Ecosystem</h2>
+<h2 align="center">🐍 My Contribution Snake</h2>
 
 <div align="center">
 
-<p><i>Watch my contribution journey turn into a snake animation!</i></p>
+<p>
+<i>Watch my coding contributions come to life!</i>
+</p>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake.svg"/>
-<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake.svg">
+
+  <img alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake.svg"
+    width="100%">
 </picture>
 
 </div>
 
 ---
 
-<!-- ================= BEYOND CODING ================= -->
+<!-- ================= INTERESTS ================= -->
 
 <h2 align="center">🎮 Beyond the Terminal</h2>
 
@@ -228,8 +223,6 @@ A classic Snake Game with a modern interface and interactive gameplay.
 <a href="https://github.com/k-prathapnarayan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-<!-- Add LinkedIn and Instagram links when available -->
 
 <br/><br/>
 
