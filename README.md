@@ -1,5 +1,5 @@
 
-<!-- ===================== HEADER ===================== -->
+<!-- ================= HEADER ================= -->
 
 <div align="center">
 
@@ -14,9 +14,9 @@ Passionate about technology, programming, and building creative digital experien
 Learning new technologies and turning ideas into reality, one line of code at a time. 🚀
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=BCA+Student;Aspiring+Full+Stack+Developer;Python+Enthusiast;Exploring+Web+Development;Building+Creative+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=750&lines=BCA+Student;Aspiring+Full+Stack+Developer;Python+Enthusiast;Exploring+Web+Development;Building+Creative+Projects"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/k-prathapnarayan">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -26,7 +26,7 @@ Learning new technologies and turning ideas into reality, one line of code at a 
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
+<!-- ================= ABOUT ME ================= -->
 
 <h2 align="center">🌌 Personal Dossier</h2>
 
@@ -60,7 +60,7 @@ Currently exploring different areas of development while building projects and i
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ================= TECH STACK ================= -->
 
 <h2 align="center">🛠️ Tech Universe</h2>
 
@@ -97,7 +97,7 @@ Currently exploring different areas of development while building projects and i
 
 ---
 
-<!-- ===================== PROJECTS ===================== -->
+<!-- ================= PROJECTS ================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
 
@@ -127,7 +127,7 @@ A classic Snake Game with a modern interface and interactive gameplay.
 
 ---
 
-<!-- ===================== LEARNING JOURNEY ===================== -->
+<!-- ================= LEARNING JOURNEY ================= -->
 
 <h2 align="center">🌱 My Learning Journey</h2>
 
@@ -149,53 +149,59 @@ A classic Snake Game with a modern interface and interactive gameplay.
 
 ---
 
-<!-- ===================== ACTIVITY GRAPH ===================== -->
+<!-- ================= GITHUB ACTIVITY ================= -->
 
 <h2 align="center">🌊 Development Heartbeat</h2>
 
-<p align="center">
-<i>A visual snapshot of my coding activity and contributions.</i>
-</p>
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=k-prathapnarayan&theme=tokyo-night&area=true&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF" width="95%" alt="GitHub Activity Graph"/>
+<p><i>A snapshot of my coding journey and contributions.</i></p>
+
+<a href="https://github.com/k-prathapnarayan">
+<img src="https://github-stats-extended.vercel.app/api?username=k-prathapnarayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" width="95%" alt="GitHub Activity Statistics"/>
+</a>
 
 </div>
 
 ---
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=k-prathapnarayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" alt="GitHub Stats"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=k-prathapnarayan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" alt="GitHub Stats"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-prathapnarayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" alt="Top Languages"/>
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=k-prathapnarayan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F7FF&text_color=ffffff" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=k-prathapnarayan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF" alt="GitHub Streak"/>
+<img width="70%" src="https://streak-stats.demolab.com/?user=k-prathapnarayan&theme=tokyonight&hide_border=true&background=0d1117&stroke=00F7FF&ring=00F7FF&fire=00F7FF" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
+<!-- ================= CONTRIBUTION SNAKE ================= -->
 
 <h2 align="center">🐍 Contribution Ecosystem</h2>
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+<p><i>Watch my contribution journey turn into a snake animation!</i></p>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/k-prathapnarayan/k-prathapnarayan/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
 
 </div>
 
 ---
 
-<!-- ===================== INTERESTS ===================== -->
+<!-- ================= BEYOND CODING ================= -->
 
 <h2 align="center">🎮 Beyond the Terminal</h2>
 
@@ -213,7 +219,7 @@ A classic Snake Game with a modern interface and interactive gameplay.
 
 ---
 
-<!-- ===================== CONNECT ===================== -->
+<!-- ================= CONNECT ================= -->
 
 <h2 align="center">🌐 Let's Connect</h2>
 
@@ -223,7 +229,7 @@ A classic Snake Game with a modern interface and interactive gameplay.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<!-- Add your LinkedIn and other social links here -->
+<!-- Add LinkedIn and Instagram links when available -->
 
 <br/><br/>
 
